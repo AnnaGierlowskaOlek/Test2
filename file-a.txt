@@ -1,1 +1,3 @@
 asdf
+
+zmiana do commita 2 ?
